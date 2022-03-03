@@ -1,7 +1,5 @@
 <h1 align='center'> Hi! I'm David Borrego </h1>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dbgjerez.dbgjerez)
-
 <h2> My GitHub Stats </h2>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dbgjerez&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbgjerez&layout=compact&theme=buefy&hide_border=true&langs_count=8&hide=css,html" /></a> 
