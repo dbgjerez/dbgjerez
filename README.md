@@ -21,3 +21,21 @@
 |Tecnology|Url|Description|
 |---|---|---|
 |Argo Rollouts|https://dbgjerez.github.io/workshop-argo-rollouts-doc/workshop-argo-rollouts-doc/index.html <br> https://github.com/dbgjerez/workshop-argo-rollouts-doc |Examples of Blue/Green and canary deployment strategies using Argo Rollouts. Also, it includes examples with Service Mesh.|
+
+<h2>Application templates</h2>
+
+|Name|Repository|Tecnologies|
+|---|---|---|
+|Kafka consumer|||
+|Kafka publisher|||
+|Golang and MongoDB||Golang, Gin and MongoDB|
+|gRPC with Golang||gRPC, Golang|
+|Web Assembly||Istio, WASM, Golang|
+
+<h2>Projects</h2>
+
+|Name|Repository|Description|
+|---|---|---|
+|SemVer|https://github.com/dbgjerez/semantic-versioning-cli |Cli for semantic versioning|
+|ML Github|https://github.com/dbgjerez/ml-github |GitHub views analysis|
+|TA|https://github.com/dbgjerez/ta |Technical analysis|
