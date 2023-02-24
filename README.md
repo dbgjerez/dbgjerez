@@ -21,6 +21,7 @@
 |Tecnology|Url|Description|
 |---|---|---|
 |Argo Rollouts|https://dbgjerez.github.io/workshop-argo-rollouts-doc/workshop-argo-rollouts-doc/index.html <br> https://github.com/dbgjerez/workshop-argo-rollouts-doc |Examples of Blue/Green and canary deployment strategies using Argo Rollouts. Also, it includes examples with Service Mesh.|
+|gRPC with Golang|https://github.com/dbgjerez/workshop-golang-grpc|Example of golang server and client application|
 
 <h2>Application templates</h2>
 
